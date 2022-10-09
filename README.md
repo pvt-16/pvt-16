@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+[![@pvt16's Holopin board](https://holopin.io/api/user/board?user=pvt16)](https://holopin.io/@pvt16)
+
 <!--
 **pvt-16/pvt-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Holopin badge board - https://www.holopin.io/@pvt16
 
 Here are some ideas to get you started:
 
