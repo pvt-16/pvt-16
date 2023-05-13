@@ -2,6 +2,11 @@
 
 [![@pvt16's Holopin board](https://holopin.io/api/user/board?user=pvt16)](https://holopin.io/@pvt16)
 
+
+- 🌱 I’m currently reading: [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+- 📫 How to reach me: pvconnect10@gmail.com
+- ⚡ Fun fact: I love science-fiction
+
 <!--
 **pvt-16/pvt-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
