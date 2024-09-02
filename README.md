@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently reading: [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+- 🌱 I’m currently reading: [Data Feminism](https://data-feminism.mitpress.mit.edu/)
 - 📫 How to reach me: pvconnect10@gmail.com
 - ⚡ Fun fact: I love science-fiction
 - ⬇️ Apparently I have some holopin badges
