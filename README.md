@@ -7,7 +7,7 @@
 
   Book Recommendations - 
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/)
-  - Personal Highlights -> power of data to uplift communities; fallacies in collection; impact of visualization & emotive responses.
+  - Highlights -> power of data to uplift communities; fallacies in collection; impact of visualization & emotive responses.
 
 
 - ⬇️ Apparently I have some holopin badges
