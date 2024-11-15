@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently reading: [Designing Machine Learning Systems](https://data-feminism.mitpress.mit.edu/](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+- 🌱 I’m currently reading: [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - 🔭 I’m currently working on computing gait metrics and detect falls in humans using wearable devices
 - 📫 How to reach me: pvconnect10@gmail.com
 - ⚡ Fun fact: I love science-fiction
